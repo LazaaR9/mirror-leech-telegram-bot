@@ -1,5 +1,6 @@
 aiofiles
 aioshutil
+aiohttp==3.8.1
 anytree
 apscheduler
 aria2p
@@ -7,12 +8,12 @@ asyncio
 cloudscraper
 dnspython
 feedparser
-flask
+flask==2.2.2
 gevent
 google-api-python-client
 google-auth-httplib2
 google-auth-oauthlib
-gunicorn
+gunicorn==20.1.0
 httpx
 lxml
 motor
